@@ -1,6 +1,11 @@
 # Phone Number Authentication
 ## Overview
-Native android application built with Kotlin and XML to login through Login and OTP
+Native android application built with Kotlin and XML to apply Phone Number login functionality
+
+## Test Phone Number
+* Phone Number: 1234567890
+* OTP: 123456
+
 ## Steps
 * Enter Phone Number
 * Click on Send OTP
@@ -9,10 +14,6 @@ Native android application built with Kotlin and XML to login through Login and 
 * Enter OTP and Click on "Verify"
 * You will be logged
 * Click on "Logout" to Logout
-
-## Test Phone Number
-* Phone Number: 1234567890
-* OTP: 123456
 
 ## Tech Stack Used
 * Kotlin
