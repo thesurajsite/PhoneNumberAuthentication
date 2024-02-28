@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746544844371",
+    "project_id": "phonenumberauthenticatio-c9e46",
+    "storage_bucket": "phonenumberauthenticatio-c9e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746544844371:android:4571c1a20f1e94faa5c0a6",
+        "android_client_info": {
+          "package_name": "com.example.phonenumberauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCsB0423qz75O-6-K726dRjPxXIu16PpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
